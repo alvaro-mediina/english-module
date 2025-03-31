@@ -4,7 +4,7 @@ Lo que entiendo por lectocomprensión es lo que literalmente leo en la palabra, 
 # 🧐 Lecto-comprensión
 Es un proceso que no significa **traducir textualmente**, sino que implica aprender y poner en práctica diferentes estrategias de lectura que nos permitan interpretar un texto elegido de manera eficaz y satisfactoria.
 
-## 😑 Pautas y pasos a tener en cuenta ✅
+# 😑 Pautas y pasos a tener en cuenta ✅
 
 1. Leer comprensivamente **no es traducir literalmente** todo el texto.
 
@@ -23,3 +23,8 @@ Es un proceso que no significa **traducir textualmente**, sino que implica apren
 8. Tener conocimiento de **Nexos lógicos** y términos de conjunción en el texto, como por ejemplo conjunciones, pronombres, y otros elementos de referencia **anafórica** y **catafórica** anterior y posterior en el contexto.
 
 9. Se recomienda **usar el diccionario** cuando todas las estrategias de comprensión hayan resultado ineficaces.
+
+# ☝🏽 Momentos de la lectura que debo cumplir 
+- Pre-visualización del texto: Tener en cuenta todo lo de [[#😑 Pautas y pasos a tener en cuenta ✅]] para así identificar la complejidad de lo que voy a leer. Se tarda **segundos** en pre-visualizar el texto.
+- Lectura global
+- Lectura específica
